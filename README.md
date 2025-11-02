@@ -1,1 +1,1 @@
-# Proyecto-ParalelismoYConcurrencia
+# Proyecto de Paralelismo y Concurrencia
